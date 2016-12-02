@@ -85,6 +85,13 @@
       <artifactId>xchange-bitstamp</artifactId>
       <version>3.1.0</version>
     </dependency>
+    <dependency>
+      <groupId>org.apache.maven.plugins</groupId>
+      <artifactId>maven-assembly-plugin</artifactId>
+      <version>2.2-beta-5</version>
+      <type>zip</type>
+      <classifier>source-release</classifier>
+    </dependency>
   </dependencies>
 
 </project>

@@ -1,7 +1,0 @@
-net.parasec.ob
-net.parasec.trading.ticker.bitstamp
-net.parasec.trading.ticker.bitstamp.wire
-net.parasec.trading.ticker.core
-net.parasec.trading.ticker.core.dispatch
-net.parasec.trading.ticker.core.util
-net.parasec.trading.ticker.core.wire
